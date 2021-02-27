@@ -1,0 +1,26 @@
+var class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item =
+[
+    [ "WorkshopReadCommunityItem", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ada0624d422db82114c05ae453024cab7", null ],
+    [ "author", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#abd35cd6b16bc16b71358eed29f2e298c", null ],
+    [ "createdOn", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ae19bdc1f595852abff2d25de072a0242", null ],
+    [ "description", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ac544b895539fc8870611c0d60f393ab9", null ],
+    [ "downVotes", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a7a566f0bc776180e12a4fc19a91009e3", null ],
+    [ "fileId", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a62306fb7228e15b8b23f3b472bf797f2", null ],
+    [ "fileSize", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a40ac6ee761024d1136e7e776f2b9e8bb", null ],
+    [ "isBanned", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ae7d7091fa558bf589622def34e552b5f", null ],
+    [ "isSubscribed", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a10cb0dec098f9eccbb62cd161f9d8dbb", null ],
+    [ "isTagsTruncated", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a1b623c34099fba0cefe1d8a0f1c4691f", null ],
+    [ "lastUpdated", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#abd8b945231ccfe513bd0787cef12ff9b", null ],
+    [ "m_RemoteStorageDownloadUGCResult", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a91a6462e5f3486336eb17e789fdcd138", null ],
+    [ "previewImage", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a609ff5454317d4daca3335bcd13733f0", null ],
+    [ "PreviewImageLocation", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a585058368a140e449ba1d17318826717", null ],
+    [ "PreviewImageUpdated", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a2291e9ef6107f5b365d66d9b186542fd", null ],
+    [ "SourceItemDetails", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a77eccbfd73342a68d2d0c936e752448a", null ],
+    [ "StateFlags", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a599870e2d16b93f93914e21b4437620c", null ],
+    [ "Tags", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ada58a8b648faf401f5af28912ef5c5f3", null ],
+    [ "targetApp", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#ac87c92a656c9a600f0863be27d3b43a1", null ],
+    [ "title", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#acd450333daeb3381f1696df6bdb373f6", null ],
+    [ "upVotes", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a04cb16ecb9387588fa5b7fe995f1165d", null ],
+    [ "Visibility", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a93d119282836392bdfbb869b5279978c", null ],
+    [ "voteScore", "class_heathen_engineering_1_1_steam_a_p_i_1_1_workshop_read_community_item.html#a24eb07aa5fd3af9de98ce8a6bf96f591", null ]
+];
